@@ -1,0 +1,28 @@
+{
+  "name": "specr",
+  "description": "Extend object by specification",
+  "version": "0.0.1",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fi11/specr.git"
+  },
+  "keywords": [
+    "extend",
+    "mixins",
+    "prototype",
+    "object",
+    "inheritance",
+    "class"
+  ],
+  "bugs": {
+    "url": "https://github.com/fi11/specr/issues"
+  },
+  "homepage": "https://github.com/fi11/specr",
+  "author": "Pavel Silin",
+  "license": "MIT",
+  "dependencies": {
+    "inv": "0.0.1"
+  },
+  "devDependencies": {}
+}
